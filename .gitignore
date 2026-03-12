@@ -1,0 +1,23 @@
+# Исходный код — НЕ публикуем в репозиторий
+FLEX_VIDEO.py
+build.py
+core/
+
+# Пользовательские данные
+profiles/
+projects/
+*.key
+gui_settings.ini
+
+# Логи и временные файлы
+*.log
+*.pyc
+*.pyo
+__pycache__/
+_build_temp/
+dist/
+build/
+*.spec
+
+# macOS
+.DS_Store
